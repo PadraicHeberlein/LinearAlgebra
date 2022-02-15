@@ -124,6 +124,7 @@
     <Compile Include="R3\Constants.cs" />
     <Compile Include="R3\CoordinatesR3.cs" />
     <Compile Include="R3\LineR3.cs" />
+    <Compile Include="R3\MatrixR3.cs" />
     <Compile Include="R3\PointR3.cs" />
     <EmbeddedResource Include="Properties\LinearAlgebra.rd.xml" />
   </ItemGroup>
