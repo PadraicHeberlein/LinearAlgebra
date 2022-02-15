@@ -120,8 +120,8 @@
     <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="R3\Constants.cs" />
     <Compile Include="R3\PointR3.cs" />
     <EmbeddedResource Include="Properties\LinearAlgebra.rd.xml" />
   </ItemGroup>
